@@ -1,0 +1,6 @@
+streamlit
+folium
+streamlit-folium
+docxtpl
+python-docx
+datetime

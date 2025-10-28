@@ -1,0 +1,19 @@
+# ========== IGNORE FILE RAHASIA ==========
+.env
+.streamlit/secrets.toml
+
+# ========== CACHE PYTHON ==========
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# ========== FILE SISTEM ==========
+.DS_Store
+Thumbs.db
+
+# ========== ENVIRONMENT VIRTUAL ==========
+venv/
+env/
+.streamlit/
